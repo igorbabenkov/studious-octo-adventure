@@ -1,0 +1,23 @@
+{
+  "name": "studious-octo-adventure",
+  "version": "1.0.0",
+  "description": "project with jest ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorbabenkov/studious-octo-adventure.git"
+  },
+  "keywords": [
+    "jest",
+    "ci"
+  ],
+  "author": "igor babenkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igorbabenkov/studious-octo-adventure/issues"
+  },
+  "homepage": "https://github.com/igorbabenkov/studious-octo-adventure#readme"
+}
