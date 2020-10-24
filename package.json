@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/igorbabenkov/studious-octo-adventure/issues"
   },
-  "homepage": "https://github.com/igorbabenkov/studious-octo-adventure#readme"
+  "homepage": "https://github.com/igorbabenkov/studious-octo-adventure#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.1",
+    "jest": "^26.6.1"
+  }
 }
